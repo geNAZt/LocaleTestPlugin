@@ -1,0 +1,4 @@
+name: LocaleTestPlugin
+main: net.cubespace.LocaleTestPlugin.LocaleTestPlugin
+description: Welcome messages in the Players locale
+version: 1.0.0
